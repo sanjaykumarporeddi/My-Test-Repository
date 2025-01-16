@@ -1,0 +1,12 @@
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\bin\Debug\UserProfileManagement.DAL.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\bin\Debug\UserProfileManagement.DAL.pdb
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\obj\Debug\UserProfileManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\obj\Debug\UserProfileManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\obj\Debug\UserProfileManagement.DAL.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\DataAccess\obj\Debug\UserProfileManagement.DAL.pdb
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\bin\Debug\UserProfileManagement.DAL.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\bin\Debug\UserProfileManagement.DAL.pdb
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\obj\Debug\UserProfileManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\obj\Debug\UserProfileManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\obj\Debug\UserProfileManagement.DAL.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.DAL\obj\Debug\UserProfileManagement.DAL.pdb

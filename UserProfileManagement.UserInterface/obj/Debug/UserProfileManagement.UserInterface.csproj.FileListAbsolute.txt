@@ -1,0 +1,8 @@
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.AssemblyReference.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserInterface\obj\Debug\UserProfileManagement.UserInterface.Properties.Resources.resources
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.GenerateResource.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.AssemblyReference.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.UserInterface\obj\Debug\UserProfileManagement.UserInterface.Properties.Resources.resources
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.GenerateResource.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\UserProfileManagement.UserInterface\obj\Debug\UserProfileManagement.UserInterface.csproj.CoreCompileInputs.cache

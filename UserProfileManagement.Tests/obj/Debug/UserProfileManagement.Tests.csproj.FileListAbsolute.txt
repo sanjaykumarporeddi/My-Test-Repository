@@ -1,0 +1,6 @@
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\bin\Debug\UserProfileManagement.Tests.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\bin\Debug\UserProfileManagement.Tests.pdb
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\obj\Debug\UserProfileManagement.Tests.csproj.AssemblyReference.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\obj\Debug\UserProfileManagement.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\obj\Debug\UserProfileManagement.Tests.dll
+C:\Users\sanja\Documents\All Docs\Sanjay\Resume\2025\Companies\JRIE\Assignment\MySolution\UserProfileManagement\Tests\obj\Debug\UserProfileManagement.Tests.pdb
